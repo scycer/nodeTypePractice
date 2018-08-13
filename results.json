@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "date": "06/07/2018",
+      "wpm": 20,
+      "averageCharPerWord": 4,
+      "wordCount": 100,
+      "incorrectKeys": 140
+    },
+    {
+      "date": "06/13/2018",
+      "wpm": 21,
+      "averageCharPerWord": 4,
+      "wordCount": 100,
+      "incorrectKeys": 108
+    },
+    {
+      "date": "06/25/2018",
+      "wpm": 23,
+      "averageCharPerWord": 4,
+      "wordCount": 100,
+      "incorrectKeys": 93
+    }
+  ]
+}
